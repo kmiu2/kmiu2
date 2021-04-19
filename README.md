@@ -1,16 +1,22 @@
-### Hi there 👋
-
 <!--
 **kmiu2/kmiu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<h3 align="center">
+  Hi! I'm <a rel="noopener noreferrer" target="_blank" href="https://kennymiu.com">Kenny Miu</a>
+</h3>
+<p align="center">
+  I'm a Software Developer currently studying Nanotechnology Engineering at the University of Waterloo.
+  <br>
+  <br>
+  <img src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="200"/>
+</p>
+<h3 align="center">
+  You can contact me at:
+</h3>
+<p align="center">
+  <a href="http://kennymiu.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kennymiu.com-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/kennymiu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kenny%20Miu-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:kennymiu2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kennymiu2@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <br>
+  ⭐️  From Kenny
+</p>
