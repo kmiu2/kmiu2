@@ -5,7 +5,7 @@ Note: target="_blank" doesnt work and is not supported but GitHub
   Hi! I'm <a href="https://kennymiu.com">Kenny Miu</a>
 </h3>
 <p align="center">
-  I'm a Software Developer currently studying Nanotechnology Engineering at the University of Waterloo.
+  I'm a passionate Software Developer that enjoys learning and working with all kinds of different tools and languages.
   <br>
   <br>
   <img src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="250"/>
